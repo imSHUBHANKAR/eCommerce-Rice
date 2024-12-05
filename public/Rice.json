@@ -1,0 +1,121 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "img": "https://www.quickpantry.in/cdn/shop/products/royal-basmati-whole-rice-loose-packing-quick-pantry-1.jpg?v=1710538782&width=640",
+            "productName": "Basmati",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from Punjab",
+            "ProductPrice": "₹ 150/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "2",
+            "img": "https://5.imimg.com/data5/GP/UJ/BM/SELLER-4367006/ir-64-rice-500x500.jpg",
+            "productName": "IR 64",
+            "ProductDescription": "To serving the world cuisines, ancient, modern or contemporary, with the expressive texture, aristocratic taste, and aesthetic aroma. Production from MP",
+            "ProductPrice": "₹ 99/-",
+            "ProductRating": "4.6",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "3",
+            "img": "https://5.imimg.com/data5/SELLER/Default/2023/12/369364584/UZ/NR/MP/14896897/red-cargo-rice-500x500.jpg",
+            "productName": "Red cargo",
+            "ProductDescription": "Its high fiber and nutty taste. It is mainly used in Kerala rice dishes, salads and healthy food. Production from UP",
+            "ProductPrice": "₹ 129/-",
+            "ProductRating": "4.5",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "4",
+            "img": "https://images.onlymyhealth.com/imported/images/2024/June/26_Jun_2024/mn-brown-rice.jpg",
+            "productName": "Brown rice",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from Haryana",
+            "ProductPrice": "₹ 89/-",
+            "ProductRating": "3.8",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "5",
+            "img": "https://5.imimg.com/data5/SELLER/Default/2023/7/327603353/JI/LR/LK/118593206/black-rice-500x500.jpg",
+            "productName": "Black rice",
+            "ProductDescription": "It is known for its rich color and high nutritional value. It is packed with antioxidants and essential vitamins. Production from Bihar.",
+            "ProductPrice": "₹ 949/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "6",
+            "img": "https://5.imimg.com/data5/YF/GQ/MY-17045879/wild-rice-500x500.jpg",
+            "productName": "Wild rice",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from Punjab.",
+            "ProductPrice": "₹ 60/-",
+            "ProductRating": "4.7",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "7",
+            "img": "https://5.imimg.com/data5/SELLER/Default/2023/12/365704065/MB/RT/AP/100090156/jasmine-rice-250x250.jpg",
+            "productName": "Jasmine rice",
+            "ProductDescription": "Its subtle sweetness and long grains. Want to enjoy delicious biryani or kheer as a dessert. Production from Kerala",
+            "ProductPrice": "₹ 949/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "8",
+            "img": "https://chenabgourmet.b-cdn.net/wp-content/uploads/2024/07/Arborio-rice-grains-close-up.jpg",
+            "productName": "Arborio",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from Asam",
+            "ProductPrice": "₹ 150/-",
+            "ProductRating": "4.6",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "9",
+            "img": "https://rukminim2.flixcart.com/image/850/1000/kyeqjrk0/rice/q/t/r/0-75-white-100-pure-organic-japanese-sushi-rice-raw-plain-rice-original-imaganjzxr87bg26.jpeg?q=90&crop=false",
+            "productName": "Japanese sushi rice",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from West Bangal",
+            "ProductPrice": "₹ 79/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "10",
+            "img": "https://5.imimg.com/data5/SELLER/Default/2024/11/465231918/KV/AT/FC/188024243/sona-masoori-rice-500x500.jpg",
+            "productName": "Sona Masuri rice",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert",
+            "ProductPrice": "₹ 949/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "11",
+            "img": "https://5.imimg.com/data5/FE/LQ/MY-11940754/1121-mogra-basmati-rice.jpg",
+            "productName": "Mogra rice",
+            "ProductDescription": "Want to enjoy pulao and vegetable biryanis with low aroma. Production from Gujarat",
+            "ProductPrice": "₹ 239/-",
+            "ProductRating": "4.8",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "11",
+            "img": "https://www.ulamart.com/pub/media/catalog/product/b/a/bambo_rice-min.png",
+            "productName": "Bamboo rice",
+            "ProductDescription": "Want to enjoy delicious special ingredient for stir-fries, desserts and salads. Production from Goa.",
+            "ProductPrice": "₹ 129/-",
+            "ProductRating": "3.6",
+            "ProductSize": "1 Kg"
+        },
+        {
+            "id": "11",
+            "img": "https://staticimg.amarujala.com/assets/images/2022/11/21/black-rice_1669023868.jpeg?w=750&dpr=1.0",
+            "productName": "Kala Jeera rice",
+            "ProductDescription": "Want to enjoy delicious biryani or kheer as a dessert. Production from Bihar.",
+            "ProductPrice": "₹ 250/-",
+            "ProductRating": "4.2",
+            "ProductSize": "1 Kg"
+        }
+    ]
+}
