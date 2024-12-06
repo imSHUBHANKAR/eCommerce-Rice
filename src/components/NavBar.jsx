@@ -16,15 +16,15 @@ function NavBar() {
 
   return (
     <nav className="bg-white shadow-md sticky top-0 z-50">
-      <div className="flex justify-between items-center px-4 py-2 md:px-8">
+      <div className="flex justify-between items-center px-4 py-1 md:px-8">
         {/* Logo */}
         <div>
-          <img src={ViLogo} alt="Logo" className="w-20 h-14" />
+          <img src={ViLogo} alt="Logo" className="w-20 h-10" />
         </div>
 
         {/* Links for larger screens */}
         <div className="hidden md:flex items-center gap-8">
-          <ul className="flex space-x-6 text-gray-700 font-medium">
+          <ul className="flex space-x-10 text-gray-700 font-medium">
             <Link to="/" className="hover:text-blue-500"><li>Home</li></Link>
             <Link to="/rice" className="hover:text-blue-500"><li>Rice</li></Link>
             <Link to="/wheat" className="hover:text-blue-500"><li>Wheat</li></Link>
@@ -35,7 +35,7 @@ function NavBar() {
         </div>
 
         {/* Icons */}
-        <div className="flex items-center gap-4 md:gap-6 bg-gray-300 rounded-full m-3 p-2">
+        <div className="flex items-center gap-4 md:gap-6 bg-gray-300 rounded-full m-2 p-2">
           <div className="text-gray-600 text-xl cursor-pointer hover:text-blue-500"><Link to="/wishlist"><CiHeart /></Link></div>
           <div className="text-gray-600 text-xl cursor-pointer hover:text-blue-500"><CiSearch /></div>
           <div className="relative">
